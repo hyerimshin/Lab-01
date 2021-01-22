@@ -8,7 +8,7 @@ coverage_needed = surface_area * coats
 cans_of_paint_required = coverage_needed / COVERAGE
 
 if float(cans_of_paint_required) > int(cans_of_paint_required):
-    print('you need to buy %d Cans' % (int(cans_of_paint_required) + 1 ))
+    print('you need to buy %d Cans' % (int(cans_of_paint_required) + 1))
 
 
 
