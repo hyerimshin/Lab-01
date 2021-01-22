@@ -1,7 +1,7 @@
 # 1510-Lab-01
 
-## Your name:
+## Your name: Hyerim Shin
 
-## Your student number:
+## Your student number: A01085855
 
-## Any important comments you'd like to make about your work:
+## Any important comments you'd like to make about your work: 
