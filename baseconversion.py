@@ -3,7 +3,6 @@ base = int(input('Enter a new destination base (2-9): '))
 max_number = base ** 4 - 1
 print('4-digit maximum number in the new destination base is %d' % max_number)
 decimal_number = float(input('Enter a decimal number: '))
-
 x = decimal_number / base
 
 remainder = (float(x) - int(x)) * base
